@@ -1,4 +1,4 @@
-<h1>Welcome LK Pipeline to the coolest Tomcat webapp ever !</h1>
+<h1>Welcome LK Pipeline trigger to the coolest Tomcat webapp ever !</h1>
 
 <h2>Interesting things to do for today</h2>
 
